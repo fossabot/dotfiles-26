@@ -1,6 +1,7 @@
 <h1 align="center">dotfiles ❤ ~/</h1>
 
 ![dikiaap's dotfiles](https://files.dikiaap.id/img/dotfiles/i3.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FUnknownDoggo%2Fdotfiles.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FUnknownDoggo%2Fdotfiles?ref=badge_shield)
 
 <p align="center">
     <b>Screenshots</b><br>
@@ -56,3 +57,7 @@
 ## Links
 
 [DotShare.it](http://dotshare.it/~dikiaap/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FUnknownDoggo%2Fdotfiles.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FUnknownDoggo%2Fdotfiles?ref=badge_large)
